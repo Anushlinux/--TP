@@ -1,1 +1,1 @@
-# Tic-Tac-TP
+Shin Oto -- TP
